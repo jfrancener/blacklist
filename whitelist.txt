@@ -2,7 +2,9 @@
 .academicum.com.br
 .accountcontabilidade.com.br
 .acrobat.com
+.adobe.cc
 .adobe.com
+.adobe.net
 .adservice.google.com
 .aedeiveleonardo.org
 .amorporlivros.com.br

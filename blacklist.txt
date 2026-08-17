@@ -27,8 +27,6 @@
 .administrace.tv
 .adnxs.com
 .adnxs.net
-.adobecc.com
-.adobedc.net
 .adroll.com
 .adrta.com
 .ads-twitter.com
