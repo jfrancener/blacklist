@@ -29,7 +29,6 @@
 .adnxs.net
 .adobecc.com
 .adobedc.net
-.adobedtm.com
 .adroll.com
 .adrta.com
 .ads-twitter.com
@@ -289,6 +288,7 @@
 .fwmrm.net
 .fwpixel.com
 .fwpub1.com
+.g.live.com
 .gameswaka.com
 .gandi.net
 .geek.com
@@ -399,7 +399,6 @@
 .linkedin.com
 .linximpulse.net
 .liquidplatform.com
-.live.com
 .livechatinc.com
 .locaweb.com.br
 .logicahost.com.br
@@ -433,8 +432,6 @@
 .mgaru.dev
 .mgid.com
 .microsoft.net
-.microsoft365.com
-.microsoftonline.com
 .migalhas.com.br
 .minutemedia-prebid.com
 .minutemediaservices.com
@@ -454,7 +451,6 @@
 .msauth.net
 .msftauth.net
 .msftstatic.com
-.msn.com
 .mujrozhlas.cz
 .mundodasmensagens.com
 .muscache.com
@@ -487,6 +483,7 @@
 .ocmtag.com
 .ocmthood.com
 .octadesk.services
+.odc.officeapps.live.com
 .odysee.com
 .office.com
 .office.net
@@ -648,7 +645,6 @@
 .skimresources.com
 .skinnycrawlinglax.com
 .skynetoapi.com
-.skype.com
 .smaato.net
 .smartadserver.com
 .smartlify.com
@@ -785,7 +781,6 @@
 .webcindario.com
 .webmotors.com.br
 .website-files.com
-.whatsapp.com
 .whatsapp.net
 .wikimedia.org
 .wikipedia.org

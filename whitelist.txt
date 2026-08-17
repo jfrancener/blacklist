@@ -2,6 +2,7 @@
 .academicum.com.br
 .accountcontabilidade.com.br
 .acrobat.com
+.adobe.com
 .adservice.google.com
 .aedeiveleonardo.org
 .amorporlivros.com.br
@@ -40,7 +41,6 @@
 .languagetool.org
 .lenovo.com
 .microsoft.microsoftofficehub
-.milvus.com.br
 .minhabiblioteca.com.br
 .mplitude.com
 .msftconnecttest.com
